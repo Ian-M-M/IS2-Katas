@@ -1,6 +1,6 @@
 # IS2 Katas
 
-This is the collection of every practice done in practical lessons for the Software Engineering subject in ULPGC.
+This is a collection of every practice done in practical lessons for the Software Engineering subject in ULPGC.
 
 Those katas are done in **Java**:
 
